@@ -8,4 +8,4 @@ keras==3.13.2
 scikit-learn==1.5.0
 pillow==12.2.0
 ipykernel==4.6.1
-tensorflow==2.12.1
+tensorflow==1.0.0
